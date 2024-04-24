@@ -27,8 +27,10 @@ Employ Pandas, a powerful Python library designed for efficient data manipulatio
 - Scientific Computing Framework: 
 NumPy provides essential support for array operations, mathematical functions, and numerical computations essential for data analysis.
 - Data Visualization Tools:
-  -Matplotlib: A versatile plotting library for generating static, interactive, and publication-quality visualizations in Python.
-  -Seaborn: Building on Matplotlib, Seaborn offers an intuitive interface for creating informative and visually appealing statistical graphics.
+
+  Matplotlib: A versatile plotting library for generating static, interactive, and publication-quality visualizations in Python.
+  
+  Seaborn: Building on Matplotlib, Seaborn offers an intuitive interface for creating informative and visually appealing statistical graphics.
 - Web Application Development:
 Leverage Streamlit, a Python library enabling rapid development of interactive web applications for data analysis and visualization.
 - Version Control System:
